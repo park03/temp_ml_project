@@ -36,6 +36,7 @@
 ### (2) 데이터 정의서
 
 REG_YYMM
+
 CARD_SIDO_NM
 CARD_CCG_NM
 STD_CLSS_NM
